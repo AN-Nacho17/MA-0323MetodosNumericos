@@ -3,6 +3,7 @@ data/
 bak/
 lib/
 out/
+config/
 
 
 # Byte-compiled / optimized Python files
